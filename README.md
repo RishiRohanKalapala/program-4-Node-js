@@ -40,6 +40,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to Bootstrap and jQuery for providing tools to create interactive and responsive web components.
 
----
+## Credits
 
-Feel free to adjust and expand this README file according to your specific needs and project details.
+This project was created by RishiRohanKalapala https://github.com/RishiRohanKalapala.
